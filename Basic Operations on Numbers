@@ -1,0 +1,58 @@
+//Addition
+Console.WriteLine("Sum");
+int firstNumber = 12;
+int secondNumber = 7;
+Console.WriteLine(firstNumber + secondNumber);
+Console.WriteLine();
+
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold "+ (widgetsSold + 7) + " widgets.");
+Console.WriteLine();
+
+int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+decimal decimalQuotient = 7 / 5m;
+
+Console.WriteLine("Sum: "+ sum);
+Console.WriteLine("Difference: "+ difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quotient: " + decimalQuotient);
+Console.WriteLine();
+
+//
+Console.WriteLine();
+Console.WriteLine($"Modulus of 200 / 5 : {200 % 5}");
+Console.WriteLine($"Modulus of 7 /5 : {7 % 5}");
+Console.WriteLine();
+
+//
+int value1 = 3 + 4 * 5;
+int value2 = (3 + 4) * 5;
+Console.WriteLine(value1);
+Console.WriteLine(value2);
+Console.WriteLine();
+
+//
+int value = 0;
+value = value + 5;
+value += 5;
+value ++;
+Console.WriteLine(value);
+Console.WriteLine("");
+
+int val = 1;
+val++;
+Console.WriteLine("First: "+ val);
+Console.WriteLine($"Second: {val++}");
+Console.WriteLine("third: " + val);
+Console.WriteLine("fourth: " + ++val);
+Console.WriteLine("");
+
+//
+int fahrenheit = 94;
+decimal celsius = (fahrenheit - 32m) * (5/9m);
+Console.WriteLine($"The temperature is {celsius} Celsius");
+
+Console.WriteLine(3+1*5/2);
