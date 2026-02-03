@@ -1,0 +1,26 @@
+//Perform Basic String Formatting in C#
+
+Console.WriteLine("Genering invoces for customer \"Constoso Corp\"...\n");
+Console.WriteLine("Invoices: 1021\t\tCompletes!");
+Console.WriteLine("Invoices: 1022\t\tCompletes!");
+Console.Write("\nOutPut Directory:\t");
+Console.WriteLine(@"C:\invoices");
+
+// To generate Japanese invoices:
+// Nihon no seikyū-sho o seisei suru ni wa:
+Console.Write("\n\n\u65e5\u672c\u306e\u8acb\u6c42\u66f8\u3092\u751f\u6210\u3059\u308b\u306b\u306f\uff1a\n\t");
+// User command to run an application
+Console.WriteLine(@"c:\invoices\app.exe -j");
+
+//concatenate String
+string firstName = "Bob";
+string greeting = "Hello";
+Console.WriteLine(greeting +" "+ firstName+"!");
+
+//interpolacion de cadena
+int version = 11;
+string updateText = "Update to windows";
+Console.WriteLine($"{updateText} {version}!");
+
+string projectName = "First-Proyect";
+Console.WriteLine($@"C:Outpoy\{projectName}\name");
