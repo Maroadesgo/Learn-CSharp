@@ -1,0 +1,14 @@
+/root/csharp/part2/guideproject/bin/Debug/net8.0/guideproject
+/root/csharp/part2/guideproject/bin/Debug/net8.0/guideproject.deps.json
+/root/csharp/part2/guideproject/bin/Debug/net8.0/guideproject.runtimeconfig.json
+/root/csharp/part2/guideproject/bin/Debug/net8.0/guideproject.dll
+/root/csharp/part2/guideproject/bin/Debug/net8.0/guideproject.pdb
+/root/csharp/part2/guideproject/obj/Debug/net8.0/guideproject.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/part2/guideproject/obj/Debug/net8.0/guideproject.AssemblyInfoInputs.cache
+/root/csharp/part2/guideproject/obj/Debug/net8.0/guideproject.AssemblyInfo.cs
+/root/csharp/part2/guideproject/obj/Debug/net8.0/guideproject.csproj.CoreCompileInputs.cache
+/root/csharp/part2/guideproject/obj/Debug/net8.0/guideproject.dll
+/root/csharp/part2/guideproject/obj/Debug/net8.0/refint/guideproject.dll
+/root/csharp/part2/guideproject/obj/Debug/net8.0/guideproject.pdb
+/root/csharp/part2/guideproject/obj/Debug/net8.0/guideproject.genruntimeconfig.cache
+/root/csharp/part2/guideproject/obj/Debug/net8.0/ref/guideproject.dll

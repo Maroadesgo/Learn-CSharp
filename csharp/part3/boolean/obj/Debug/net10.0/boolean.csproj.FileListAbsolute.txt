@@ -1,0 +1,14 @@
+/root/csharp/part3/boolean/bin/Debug/net10.0/boolean
+/root/csharp/part3/boolean/bin/Debug/net10.0/boolean.deps.json
+/root/csharp/part3/boolean/bin/Debug/net10.0/boolean.runtimeconfig.json
+/root/csharp/part3/boolean/bin/Debug/net10.0/boolean.dll
+/root/csharp/part3/boolean/bin/Debug/net10.0/boolean.pdb
+/root/csharp/part3/boolean/obj/Debug/net10.0/boolean.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/part3/boolean/obj/Debug/net10.0/boolean.AssemblyInfoInputs.cache
+/root/csharp/part3/boolean/obj/Debug/net10.0/boolean.AssemblyInfo.cs
+/root/csharp/part3/boolean/obj/Debug/net10.0/boolean.csproj.CoreCompileInputs.cache
+/root/csharp/part3/boolean/obj/Debug/net10.0/boolean.dll
+/root/csharp/part3/boolean/obj/Debug/net10.0/refint/boolean.dll
+/root/csharp/part3/boolean/obj/Debug/net10.0/boolean.pdb
+/root/csharp/part3/boolean/obj/Debug/net10.0/boolean.genruntimeconfig.cache
+/root/csharp/part3/boolean/obj/Debug/net10.0/ref/boolean.dll

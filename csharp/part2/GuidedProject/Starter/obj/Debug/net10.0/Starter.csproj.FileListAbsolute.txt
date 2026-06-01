@@ -1,0 +1,14 @@
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/Starter.AssemblyInfoInputs.cache
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/Starter.AssemblyInfo.cs
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/Starter.csproj.CoreCompileInputs.cache
+/root/csharp/part2/GuidedProject/Starter/bin/Debug/net10.0/Starter
+/root/csharp/part2/GuidedProject/Starter/bin/Debug/net10.0/Starter.deps.json
+/root/csharp/part2/GuidedProject/Starter/bin/Debug/net10.0/Starter.runtimeconfig.json
+/root/csharp/part2/GuidedProject/Starter/bin/Debug/net10.0/Starter.dll
+/root/csharp/part2/GuidedProject/Starter/bin/Debug/net10.0/Starter.pdb
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/Starter.dll
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/refint/Starter.dll
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/Starter.pdb
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/Starter.genruntimeconfig.cache
+/root/csharp/part2/GuidedProject/Starter/obj/Debug/net10.0/ref/Starter.dll

@@ -1,0 +1,14 @@
+/root/csharp/part4/datatype/bin/Debug/net10.0/datatype
+/root/csharp/part4/datatype/bin/Debug/net10.0/datatype.deps.json
+/root/csharp/part4/datatype/bin/Debug/net10.0/datatype.runtimeconfig.json
+/root/csharp/part4/datatype/bin/Debug/net10.0/datatype.dll
+/root/csharp/part4/datatype/bin/Debug/net10.0/datatype.pdb
+/root/csharp/part4/datatype/obj/Debug/net10.0/datatype.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/part4/datatype/obj/Debug/net10.0/datatype.AssemblyInfoInputs.cache
+/root/csharp/part4/datatype/obj/Debug/net10.0/datatype.AssemblyInfo.cs
+/root/csharp/part4/datatype/obj/Debug/net10.0/datatype.csproj.CoreCompileInputs.cache
+/root/csharp/part4/datatype/obj/Debug/net10.0/datatype.dll
+/root/csharp/part4/datatype/obj/Debug/net10.0/refint/datatype.dll
+/root/csharp/part4/datatype/obj/Debug/net10.0/datatype.pdb
+/root/csharp/part4/datatype/obj/Debug/net10.0/datatype.genruntimeconfig.cache
+/root/csharp/part4/datatype/obj/Debug/net10.0/ref/datatype.dll

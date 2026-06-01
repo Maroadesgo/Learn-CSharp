@@ -1,0 +1,14 @@
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.AssemblyInfoInputs.cache
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.AssemblyInfo.cs
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.csproj.CoreCompileInputs.cache
+/root/csharp/part4/dataconvert/bin/Debug/net10.0/dataconvert
+/root/csharp/part4/dataconvert/bin/Debug/net10.0/dataconvert.deps.json
+/root/csharp/part4/dataconvert/bin/Debug/net10.0/dataconvert.runtimeconfig.json
+/root/csharp/part4/dataconvert/bin/Debug/net10.0/dataconvert.dll
+/root/csharp/part4/dataconvert/bin/Debug/net10.0/dataconvert.pdb
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.dll
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/refint/dataconvert.dll
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.pdb
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.genruntimeconfig.cache
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/ref/dataconvert.dll

@@ -1,0 +1,4 @@
+/root/csharp/part3/guidedproject/obj/Debug/net10.0/guidedproject.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/part3/guidedproject/obj/Debug/net10.0/guidedproject.AssemblyInfoInputs.cache
+/root/csharp/part3/guidedproject/obj/Debug/net10.0/guidedproject.AssemblyInfo.cs
+/root/csharp/part3/guidedproject/obj/Debug/net10.0/guidedproject.csproj.CoreCompileInputs.cache

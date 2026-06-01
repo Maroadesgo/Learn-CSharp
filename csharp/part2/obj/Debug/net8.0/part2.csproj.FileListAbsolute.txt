@@ -1,0 +1,14 @@
+/root/csharp/part2/bin/Debug/net8.0/part2
+/root/csharp/part2/bin/Debug/net8.0/part2.deps.json
+/root/csharp/part2/bin/Debug/net8.0/part2.runtimeconfig.json
+/root/csharp/part2/bin/Debug/net8.0/part2.dll
+/root/csharp/part2/bin/Debug/net8.0/part2.pdb
+/root/csharp/part2/obj/Debug/net8.0/part2.GeneratedMSBuildEditorConfig.editorconfig
+/root/csharp/part2/obj/Debug/net8.0/part2.AssemblyInfoInputs.cache
+/root/csharp/part2/obj/Debug/net8.0/part2.AssemblyInfo.cs
+/root/csharp/part2/obj/Debug/net8.0/part2.csproj.CoreCompileInputs.cache
+/root/csharp/part2/obj/Debug/net8.0/part2.dll
+/root/csharp/part2/obj/Debug/net8.0/refint/part2.dll
+/root/csharp/part2/obj/Debug/net8.0/part2.pdb
+/root/csharp/part2/obj/Debug/net8.0/part2.genruntimeconfig.cache
+/root/csharp/part2/obj/Debug/net8.0/ref/part2.dll
