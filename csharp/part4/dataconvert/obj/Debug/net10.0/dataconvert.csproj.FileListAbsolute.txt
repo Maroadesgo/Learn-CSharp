@@ -12,3 +12,4 @@
 /root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.pdb
 /root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.genruntimeconfig.cache
 /root/csharp/part4/dataconvert/obj/Debug/net10.0/ref/dataconvert.dll
+/root/csharp/part4/dataconvert/obj/Debug/net10.0/dataconvert.sourcelink.json
